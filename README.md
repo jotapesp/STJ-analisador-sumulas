@@ -24,6 +24,14 @@ arquivo PDF que contém as súmulas a serem analisadas.
 
 * Faça a instalação das dependências listadas em [`requirements.txt`](https://github.com/jotapesp/STJ-analisador-sumulas/blob/main/requirements.txt) manualmente ou utilize o comando:
   >`pip install -r requirements.txt`
+* Caso ocorra algum erro na instalação das bibliotecas utilizando o arquivo requirements.txt por alguma incompatibilidade, instale as bibliotecas separadamente:
+  >`pip install beautifulsoup4` ;
+  >`pip install sentence-transformers` ;
+  >`pip install PyMuPDF` ;
+  >`pip install google-generativeai` ;
+  >`pip install scikit-learn` ;
+  >`pip install numpy` ;
+  >`pip install requests` ;
 
 * Para rodar o app, siga as instruções em Como Usar.
 
