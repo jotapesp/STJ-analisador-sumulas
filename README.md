@@ -9,6 +9,8 @@ arquivo PDF que contém as súmulas a serem analisadas.
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://docs.python.org/3.10/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](https://aistudio.google.com/welcome?utm_source=google&utm_medium=cpc&utm_campaign=FY25-global-DR-gsem-BKWS-1710442&utm_content=text-ad-none-any-DEV_c-CRE_726176647097-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt-Gemini-Gemini%20API%20Docs-KWID_43700081658555785-kwd-2327808654903&utm_term=KW_google%20gemini%20api%20documentation-ST_google%20gemini%20api%20documentation&gclsrc=aw.ds&gad_source=1&gad_campaignid=21026872772&gbraid=0AAAAACn9t67h14cfxXl8nzLIHXZH2jHrn&gclid=Cj0KCQjwzaXFBhDlARIsAFPv-u9il5RyEZ2XKWbM2RXEeaBLKLyy9_VRsk8CvpJ2dQohUB1cLMP-fNIaAlHnEALw_wcB)
 
+#### Desenvolvido em Ubuntu 24.04.5 utilizando **Python 3.10.12**, portanto, pode haver incompatibilidades ao tentar instalar as bibliotecas das dependências
+
 ### Instalação
 
 (PT-BR)
