@@ -10,12 +10,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import google.generativeai as genai
 # from openai import OpenAI
 
-<<<<<<< HEAD
 GEMINI_KEY = 'INSERIR CHAVE DO GEMINI'
-=======
-# OPENAI_KEY="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"
-GEMINI_KEY = 'AIzaSyDITgS3Wwq3UoRX9_uZLEh-FJW6foJ1whU'
->>>>>>> 0956804 (Commit inicial do projeto)
 
 def generate_embeddings(dict, model):
     '''
