@@ -18,20 +18,20 @@ arquivo PDF que contém as súmulas a serem analisadas.
   >`git clone https://github.com/jotapesp/STJ-analisador-sumulas.git`
 
 * Recomenda-se a criação de um ambiente virtual Python utilizando o venv
-  > `python3 -m venv workplace` ;
-  > `source workplace/bin/activate` para ativar o ambiente virtual em ambientes Linux e MacOS.
-  > `workplace\Scripts\activate` para Windows
+  > `python3 -m venv workplace`  
+  > `source workplace/bin/activate` para ativar o ambiente virtual em ambientes Linux e MacOS.  
+  > `workplace\Scripts\activate` para Windows  
 
 * Faça a instalação das dependências listadas em [`requirements.txt`](https://github.com/jotapesp/STJ-analisador-sumulas/blob/main/requirements.txt) manualmente ou utilize o comando:
   >`pip install -r requirements.txt`
 * Caso ocorra algum erro na instalação das bibliotecas utilizando o arquivo requirements.txt por alguma incompatibilidade, instale as bibliotecas separadamente:
-  >`pip install beautifulsoup4` ;
-  >`pip install sentence-transformers` ;
-  >`pip install PyMuPDF` ;
-  >`pip install google-generativeai` ;
-  >`pip install scikit-learn` ;
-  >`pip install numpy` ;
-  >`pip install requests` ;
+  >`pip install beautifulsoup4`  
+  >`pip install sentence-transformers`  
+  >`pip install PyMuPDF`  
+  >`pip install google-generativeai`  
+  >`pip install scikit-learn`  
+  >`pip install numpy`  
+  >`pip install requests`  
 
 * Para rodar o app, siga as instruções em Como Usar.
 
