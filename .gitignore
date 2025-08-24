@@ -1,0 +1,8 @@
+# arquivos para o git ignorar
+
+__pycache__/
+te.txt
+arquivo_pdf.pdf
+key.txt
+key.txt.pub
+.cdw/
